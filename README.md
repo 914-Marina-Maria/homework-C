@@ -1,0 +1,2 @@
+# homework-C
+third assignment
